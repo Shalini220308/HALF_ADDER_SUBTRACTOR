@@ -35,9 +35,12 @@ Figure -02 HALF Subtractor
 
 **Truthtable**
 FULL ADDER:
-<img width="482" height="404" alt="image" src="https://github.com/user-attachments/assets/258f0e8a-dd36-4763-bb84-76b5564aa7f7" />
-FULL SUBTRACTOR:
-<img width="488" height="336" alt="image" src="https://github.com/user-attachments/assets/0dbf9b80-185a-48db-b1f4-ea286a94b2a9" />
+<img width="482" height="404" alt="Screenshot 2025-10-07 132423" src="https://github.com/user-attachments/assets/56a16f8b-aba5-429d-8e22-9411864d7855" />
+
+FULL SUBTRACTOR
+<img width="488" height="336" alt="Screenshot 2025-10-07 133019" src="https://github.com/user-attachments/assets/5c450129-5649-419f-97b2-2efcfa2d4864" />
+
+
 
 
 
@@ -80,16 +83,19 @@ endmodule
 
 **RTL Schematic**
 FULL ADDER:
-<img width="1721" height="817" alt="Screenshot 2025-10-07 130829" src="https://github.com/user-attachments/assets/ccc10c9e-cc12-4398-95b7-f0befdd12ecd" />
+<img width="1721" height="817" alt="Screenshot 2025-10-07 130829" src="https://github.com/user-attachments/assets/8139c5f5-a19c-4924-b6eb-c7e8bd9727af" />
+
 FULL SUBTRACTOR:
-<img width="745" height="301" alt="image" src="https://github.com/user-attachments/assets/826f47c9-e2c3-4fed-9c78-dd2aa496649e" />
+<img width="745" height="301" alt="Screenshot 2025-10-07 133441" src="https://github.com/user-attachments/assets/beabb0c1-616c-4167-815b-aaec22f77d15" />
 
 
 **Output/TIMING Waveform**
 FULL ADDER:
-<img width="902" height="299" alt="image" src="https://github.com/user-attachments/assets/6f9b8410-4aa0-47b1-9d01-1b670bf5aa41" />
+<img width="902" height="299" alt="Screenshot 2025-10-07 133537" src="https://github.com/user-attachments/assets/9e44acf9-1c56-42e2-8acf-8f72f33cd9a0" />
+
 FULL SUBTRACTOR:
-<img width="901" height="277" alt="image" src="https://github.com/user-attachments/assets/d5185110-5786-443f-ae24-ba5cf4636680" />
+<img width="901" height="277" alt="Screenshot 2025-10-07 133610" src="https://github.com/user-attachments/assets/4023cdb2-1347-4db1-8311-37f76ff69817" />
+
 
 **Result:**
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is
